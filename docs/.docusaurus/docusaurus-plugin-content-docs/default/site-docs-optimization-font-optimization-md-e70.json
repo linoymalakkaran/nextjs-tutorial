@@ -1,0 +1,25 @@
+{
+  "id": "optimization/font-optimization",
+  "title": "Font Optimization",
+  "description": "Documentation for Font Optimization feature.",
+  "source": "@site/docs/optimization/font-optimization.md",
+  "sourceDirName": "optimization",
+  "slug": "/optimization/font-optimization",
+  "permalink": "/docs/optimization/font-optimization",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Font Optimization"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Image Optimization",
+    "permalink": "/docs/optimization/image-optimization"
+  },
+  "next": {
+    "title": "Lazy Loading",
+    "permalink": "/docs/optimization/lazy-loading"
+  }
+}

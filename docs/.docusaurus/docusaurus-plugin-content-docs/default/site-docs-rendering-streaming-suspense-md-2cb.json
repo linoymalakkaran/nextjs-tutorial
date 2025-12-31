@@ -1,0 +1,25 @@
+{
+  "id": "rendering/streaming-suspense",
+  "title": "Streaming & Suspense",
+  "description": "Documentation for Streaming & Suspense feature.",
+  "source": "@site/docs/rendering/streaming-suspense.md",
+  "sourceDirName": "rendering",
+  "slug": "/rendering/streaming-suspense",
+  "permalink": "/docs/rendering/streaming-suspense",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Streaming & Suspense"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Client Components",
+    "permalink": "/docs/rendering/client-components"
+  },
+  "next": {
+    "title": "Server Actions",
+    "permalink": "/docs/data/server-actions"
+  }
+}

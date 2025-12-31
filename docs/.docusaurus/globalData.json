@@ -1,0 +1,123 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "advanced/error-handling",
+              "path": "/docs/advanced/error-handling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "advanced/middleware",
+              "path": "/docs/advanced/middleware",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "data/api-routes",
+              "path": "/docs/data/api-routes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "data/database-queries",
+              "path": "/docs/data/database-queries",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "data/server-actions",
+              "path": "/docs/data/server-actions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "data/tanstack-query",
+              "path": "/docs/data/tanstack-query",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "optimization/font-optimization",
+              "path": "/docs/optimization/font-optimization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "optimization/image-optimization",
+              "path": "/docs/optimization/image-optimization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "optimization/lazy-loading",
+              "path": "/docs/optimization/lazy-loading",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "optimization/metadata-seo",
+              "path": "/docs/optimization/metadata-seo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "rendering/client-components",
+              "path": "/docs/rendering/client-components",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "rendering/server-components",
+              "path": "/docs/rendering/server-components",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "rendering/streaming-suspense",
+              "path": "/docs/rendering/streaming-suspense",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "routing/dynamic-routes",
+              "path": "/docs/routing/dynamic-routes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "routing/intercepting-routes",
+              "path": "/docs/routing/intercepting-routes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "routing/parallel-routes",
+              "path": "/docs/routing/parallel-routes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "routing/route-handlers",
+              "path": "/docs/routing/route-handlers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "state/zustand",
+              "path": "/docs/state/zustand",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

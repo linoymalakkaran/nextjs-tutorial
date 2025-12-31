@@ -1,0 +1,25 @@
+{
+  "id": "advanced/middleware",
+  "title": "Middleware",
+  "description": "Documentation for Middleware feature.",
+  "source": "@site/docs/advanced/middleware.md",
+  "sourceDirName": "advanced",
+  "slug": "/advanced/middleware",
+  "permalink": "/docs/advanced/middleware",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Middleware"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Metadata & SEO",
+    "permalink": "/docs/optimization/metadata-seo"
+  },
+  "next": {
+    "title": "Error Handling",
+    "permalink": "/docs/advanced/error-handling"
+  }
+}

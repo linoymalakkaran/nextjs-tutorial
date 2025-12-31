@@ -1,0 +1,25 @@
+{
+  "id": "data/tanstack-query",
+  "title": "TanStack Query",
+  "description": "Purpose",
+  "source": "@site/docs/data/tanstack-query.md",
+  "sourceDirName": "data",
+  "slug": "/data/tanstack-query",
+  "permalink": "/docs/data/tanstack-query",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "TanStack Query"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API Routes",
+    "permalink": "/docs/data/api-routes"
+  },
+  "next": {
+    "title": "Database Queries",
+    "permalink": "/docs/data/database-queries"
+  }
+}

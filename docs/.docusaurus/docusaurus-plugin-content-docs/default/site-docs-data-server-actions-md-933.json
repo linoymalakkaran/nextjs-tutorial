@@ -1,0 +1,25 @@
+{
+  "id": "data/server-actions",
+  "title": "Server Actions",
+  "description": "Purpose",
+  "source": "@site/docs/data/server-actions.md",
+  "sourceDirName": "data",
+  "slug": "/data/server-actions",
+  "permalink": "/docs/data/server-actions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Server Actions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Streaming & Suspense",
+    "permalink": "/docs/rendering/streaming-suspense"
+  },
+  "next": {
+    "title": "API Routes",
+    "permalink": "/docs/data/api-routes"
+  }
+}

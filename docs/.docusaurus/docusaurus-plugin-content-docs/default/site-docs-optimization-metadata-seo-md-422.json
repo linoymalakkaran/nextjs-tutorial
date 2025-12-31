@@ -1,0 +1,25 @@
+{
+  "id": "optimization/metadata-seo",
+  "title": "Metadata & SEO",
+  "description": "Documentation for Metadata & SEO feature.",
+  "source": "@site/docs/optimization/metadata-seo.md",
+  "sourceDirName": "optimization",
+  "slug": "/optimization/metadata-seo",
+  "permalink": "/docs/optimization/metadata-seo",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Metadata & SEO"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lazy Loading",
+    "permalink": "/docs/optimization/lazy-loading"
+  },
+  "next": {
+    "title": "Middleware",
+    "permalink": "/docs/advanced/middleware"
+  }
+}

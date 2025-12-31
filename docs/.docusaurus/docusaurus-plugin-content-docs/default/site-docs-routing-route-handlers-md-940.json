@@ -1,0 +1,25 @@
+{
+  "id": "routing/route-handlers",
+  "title": "Route Handlers",
+  "description": "Documentation for Route Handlers feature.",
+  "source": "@site/docs/routing/route-handlers.md",
+  "sourceDirName": "routing",
+  "slug": "/routing/route-handlers",
+  "permalink": "/docs/routing/route-handlers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Route Handlers"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Intercepting Routes",
+    "permalink": "/docs/routing/intercepting-routes"
+  },
+  "next": {
+    "title": "Image Optimization",
+    "permalink": "/docs/optimization/image-optimization"
+  }
+}

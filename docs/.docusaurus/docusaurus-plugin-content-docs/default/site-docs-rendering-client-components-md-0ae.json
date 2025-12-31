@@ -1,0 +1,25 @@
+{
+  "id": "rendering/client-components",
+  "title": "Client Components",
+  "description": "Purpose",
+  "source": "@site/docs/rendering/client-components.md",
+  "sourceDirName": "rendering",
+  "slug": "/rendering/client-components",
+  "permalink": "/docs/rendering/client-components",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Client Components"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Server Components",
+    "permalink": "/docs/rendering/server-components"
+  },
+  "next": {
+    "title": "Streaming & Suspense",
+    "permalink": "/docs/rendering/streaming-suspense"
+  }
+}

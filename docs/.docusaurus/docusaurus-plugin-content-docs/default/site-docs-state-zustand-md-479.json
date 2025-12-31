@@ -1,0 +1,25 @@
+{
+  "id": "state/zustand",
+  "title": "Zustand State Management",
+  "description": "Purpose",
+  "source": "@site/docs/state/zustand.md",
+  "sourceDirName": "state",
+  "slug": "/state/zustand",
+  "permalink": "/docs/state/zustand",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Zustand State Management"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Database Queries",
+    "permalink": "/docs/data/database-queries"
+  },
+  "next": {
+    "title": "Dynamic Routes",
+    "permalink": "/docs/routing/dynamic-routes"
+  }
+}

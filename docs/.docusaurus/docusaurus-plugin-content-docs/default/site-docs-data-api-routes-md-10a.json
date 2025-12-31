@@ -1,0 +1,25 @@
+{
+  "id": "data/api-routes",
+  "title": "API Routes",
+  "description": "Purpose",
+  "source": "@site/docs/data/api-routes.md",
+  "sourceDirName": "data",
+  "slug": "/data/api-routes",
+  "permalink": "/docs/data/api-routes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "API Routes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Server Actions",
+    "permalink": "/docs/data/server-actions"
+  },
+  "next": {
+    "title": "TanStack Query",
+    "permalink": "/docs/data/tanstack-query"
+  }
+}

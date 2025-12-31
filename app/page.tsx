@@ -184,6 +184,12 @@ export default function Home() {
             <span className="mr-2">📖</span>
             Each feature includes comments explaining key concepts
           </li>
+          <li className="flex items-start">
+            <span className="mr-2">📘</span>
+            <Link href="/docs" className="text-blue-600 dark:text-blue-400 hover:underline">
+              View comprehensive documentation
+            </Link>
+          </li>
         </ul>
       </div>
     </div>

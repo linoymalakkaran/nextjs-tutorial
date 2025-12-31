@@ -1,0 +1,25 @@
+{
+  "id": "rendering/server-components",
+  "title": "Server Components",
+  "description": "Purpose",
+  "source": "@site/docs/rendering/server-components.md",
+  "sourceDirName": "rendering",
+  "slug": "/rendering/server-components",
+  "permalink": "/docs/rendering/server-components",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Server Components"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Client Components",
+    "permalink": "/docs/rendering/client-components"
+  }
+}

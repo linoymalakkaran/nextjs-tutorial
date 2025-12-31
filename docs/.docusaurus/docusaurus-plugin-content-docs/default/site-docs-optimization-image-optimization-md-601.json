@@ -1,0 +1,25 @@
+{
+  "id": "optimization/image-optimization",
+  "title": "Image Optimization",
+  "description": "Documentation for Image Optimization feature.",
+  "source": "@site/docs/optimization/image-optimization.md",
+  "sourceDirName": "optimization",
+  "slug": "/optimization/image-optimization",
+  "permalink": "/docs/optimization/image-optimization",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Image Optimization"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Route Handlers",
+    "permalink": "/docs/routing/route-handlers"
+  },
+  "next": {
+    "title": "Font Optimization",
+    "permalink": "/docs/optimization/font-optimization"
+  }
+}

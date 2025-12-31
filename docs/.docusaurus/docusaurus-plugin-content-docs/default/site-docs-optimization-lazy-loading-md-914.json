@@ -1,0 +1,25 @@
+{
+  "id": "optimization/lazy-loading",
+  "title": "Lazy Loading",
+  "description": "Documentation for Lazy Loading feature.",
+  "source": "@site/docs/optimization/lazy-loading.md",
+  "sourceDirName": "optimization",
+  "slug": "/optimization/lazy-loading",
+  "permalink": "/docs/optimization/lazy-loading",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Lazy Loading"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Font Optimization",
+    "permalink": "/docs/optimization/font-optimization"
+  },
+  "next": {
+    "title": "Metadata & SEO",
+    "permalink": "/docs/optimization/metadata-seo"
+  }
+}

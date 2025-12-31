@@ -1,0 +1,25 @@
+{
+  "id": "routing/dynamic-routes",
+  "title": "Dynamic Routes",
+  "description": "Documentation for Dynamic Routes feature.",
+  "source": "@site/docs/routing/dynamic-routes.md",
+  "sourceDirName": "routing",
+  "slug": "/routing/dynamic-routes",
+  "permalink": "/docs/routing/dynamic-routes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Dynamic Routes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Zustand State Management",
+    "permalink": "/docs/state/zustand"
+  },
+  "next": {
+    "title": "Parallel Routes",
+    "permalink": "/docs/routing/parallel-routes"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "routing/intercepting-routes",
+  "title": "Intercepting Routes",
+  "description": "Documentation for Intercepting Routes feature.",
+  "source": "@site/docs/routing/intercepting-routes.md",
+  "sourceDirName": "routing",
+  "slug": "/routing/intercepting-routes",
+  "permalink": "/docs/routing/intercepting-routes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Intercepting Routes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Parallel Routes",
+    "permalink": "/docs/routing/parallel-routes"
+  },
+  "next": {
+    "title": "Route Handlers",
+    "permalink": "/docs/routing/route-handlers"
+  }
+}
