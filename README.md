@@ -2,35 +2,58 @@
 
 A comprehensive Next.js 14 application showcasing **all major features** organized as separate, easy-to-understand modules. Perfect for learning Next.js from basics to advanced concepts!
 
+## 🎯 Two Ways to Learn
+
+### 1. 📱 Interactive Next.js App
+Run the actual application with **19 working features**:
+```bash
+npm run dev
+```
+Visit: **http://localhost:3000**
+
+### 2. 📚 Documentation Site
+Beautiful Docusaurus documentation with detailed guides:
+```bash
+npm run docs
+```
+Visit: **http://localhost:3001**
+
+> 💡 **Pro Tip**: Run both simultaneously for the best learning experience!
+
+---
+
 ## 📚 What You'll Learn
 
-This project demonstrates **16 core Next.js features** with working examples:
+This project demonstrates **19 complete Next.js features** with working examples:
 
-### 🎯 Rendering Strategies
+### 🎨 Rendering Strategies
 1. **Server Components** - Default RSC for better performance
 2. **Client Components** - Interactive UI with hooks and events
 3. **Server-Side Rendering (SSR)** - Dynamic rendering on each request
 4. **Static Site Generation (SSG)** - Pre-rendered pages at build time
 5. **Incremental Static Regeneration (ISR)** - Static pages that update automatically
 
-### 🔄 Data & Mutations
+### 💾 Data & Mutations
 6. **Server Actions** - Server-side form handling without API routes
 7. **API Routes** - RESTful API endpoints with Route Handlers
+8. **Database Queries** - Server-side database patterns and best practices
+9. **TanStack Query** - Powerful client-side data fetching and caching
+
+### 🎭 State Management
+10. **Zustand** - Lightweight and fast state management solution
 
 ### 🛣️ Routing
-8. **Dynamic Routes** - `[id]`, `[...slug]`, and `[[...slug]]` patterns
-9. **Parallel Routes** - Render multiple pages simultaneously
-10. **Intercepting Routes** - Show modals while preserving URLs
-11. **Route Groups** - Organize routes without affecting URLs
+11. **Dynamic Routes** - `[id]`, `[...slug]`, and `[[...slug]]` patterns
+12. **Parallel Routes** - Render multiple pages simultaneously
+13. **Intercepting Routes** - Show modals while preserving URLs
+14. **Route Groups** - Organize routes without affecting URLs
 
 ### ⚡ Performance & UX
-12. **Image Optimization** - Next.js Image component with automatic optimization
-13. **Loading States** - Instant loading UI with `loading.tsx` and Suspense
-14. **Error Handling** - Graceful error boundaries with `error.tsx`
-
-### 🔧 Advanced Features
-15. **Metadata API** - SEO-friendly meta tags and Open Graph
-16. **Middleware** - Run code before requests complete
+15. **Image Optimization** - Next.js Image component with automatic optimization
+16. **Loading States** - Instant loading UI with `loading.tsx` and Suspense
+17. **Error Handling** - Graceful error boundaries with `error.tsx`
+18. **Metadata API** - SEO-friendly meta tags and Open Graph
+19. **Middleware** - Run code before requests complete
 
 ## 🏗️ Project Structure
 

@@ -7,7 +7,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "docs": "cd docs && npm start",
+    "docs:build": "cd docs && npm run build"
   },
   "dependencies": {
     "next": "^14.2.0",
