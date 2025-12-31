@@ -2,23 +2,19 @@
 
 A comprehensive Next.js 14 application showcasing **all major features** organized as separate, easy-to-understand modules. Perfect for learning Next.js from basics to advanced concepts!
 
-## 🎯 Two Ways to Learn
+## 🎯 One Integrated Application
 
-### 1. 📱 Interactive Next.js App
-Run the actual application with **19 working features**:
+The documentation is now integrated directly into the Next.js app!
+
 ```bash
 npm run dev
 ```
-Visit: **http://localhost:3000**
 
-### 2. 📚 Documentation Site
-Beautiful Docusaurus documentation with detailed guides:
-```bash
-npm run docs
-```
-Visit: **http://localhost:3001**
+Visit:
+- **Main App**: http://localhost:3000
+- **Documentation**: http://localhost:3000/docs
 
-> 💡 **Pro Tip**: Run both simultaneously for the best learning experience!
+> 💡 **All in One!** No need to run separate servers - the documentation is served from the same Next.js application.
 
 ---
 
