@@ -2,19 +2,19 @@
 
 A comprehensive Next.js 14 application showcasing **all major features** organized as separate, easy-to-understand modules. Perfect for learning Next.js from basics to advanced concepts!
 
-## 🎯 One Integrated Application
-
-The documentation is now integrated directly into the Next.js app!
+## 🚀 Getting Started
 
 ```bash
+# Install dependencies
+npm install
+
+# Run development server
 npm run dev
 ```
 
-Visit:
-- **Main App**: http://localhost:3000
-- **Documentation**: http://localhost:3000/docs
+Visit **http://localhost:3000** to explore all features with interactive examples!
 
-> 💡 **All in One!** No need to run separate servers - the documentation is served from the same Next.js application.
+Each feature includes detailed inline documentation and code comments.
 
 ---
 
