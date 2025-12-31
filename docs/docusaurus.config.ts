@@ -7,8 +7,9 @@ const config: Config = {
   tagline: 'Comprehensive Next.js 14 features and examples',
   favicon: 'img/favicon.ico',
 
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'http://localhost:3000',
   baseUrl: '/docs/',
+  trailingSlash: false,
 
   organizationName: 'your-org',
   projectName: 'nextjs-learning',
@@ -41,6 +42,11 @@ const config: Config = {
     navbar: {
       title: 'Next.js Learning',
       items: [
+        {
+          href: '/',
+          label: 'Home',
+          position: 'left',
+        },
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',

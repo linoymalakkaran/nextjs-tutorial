@@ -7,8 +7,9 @@ export default {
   "title": "Next.js Learning Guide",
   "tagline": "Comprehensive Next.js 14 features and examples",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-site.example.com",
+  "url": "http://localhost:3000",
   "baseUrl": "/docs/",
+  "trailingSlash": false,
   "organizationName": "your-org",
   "projectName": "nextjs-learning",
   "onBrokenLinks": "warn",
@@ -39,6 +40,11 @@ export default {
     "navbar": {
       "title": "Next.js Learning",
       "items": [
+        {
+          "href": "/",
+          "label": "Home",
+          "position": "left"
+        },
         {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",

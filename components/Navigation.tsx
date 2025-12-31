@@ -36,6 +36,14 @@ export default function Navigation() {
               >
                 Features
               </Link>
+              <Link
+                href="/docs"
+                className={`px-3 py-2 rounded-md text-sm font-medium ${
+                  pathname?.startsWith('/docs') ? 'bg-gray-800' : 'hover:bg-gray-700'
+                } transition-colors`}
+              >
+                Documentation
+              </Link>
             </div>
           </div>
 
@@ -87,6 +95,13 @@ export default function Navigation() {
               onClick={() => setIsOpen(false)}
             >
               Features
+            </Link>
+            <Link
+              href="/docs"
+              className="block px-3 py-2 rounded-md text-base font-medium hover:bg-gray-700"
+              onClick={() => setIsOpen(false)}
+            >
+              Documentation
             </Link>
           </div>
         </div>
